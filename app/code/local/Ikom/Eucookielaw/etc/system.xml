@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
     <tabs>
-        <creare_group translate="label">
-            <label>Creare Group</label>
+        <ikom translate="label">
+            <label>Ikom</label>
             <sort_order>100</sort_order>
-        </creare_group>
+        </ikom>
     </tabs>
     <sections>
         <eu_cookie_law translate="label">
-            <label>EU Cookie Law</label>
-            <tab>creare_group</tab>
+            <label>Cookie Law</label>
+            <tab>ikom</tab>
             <frontend_type>text</frontend_type>
             <sort_order>1000</sort_order>
             <show_in_default>1</show_in_default>
@@ -31,7 +31,7 @@
                             <show_in_default>1</show_in_default>
                             <show_in_website>1</show_in_website>
                             <show_in_store>1</show_in_store>
-                        </show_banner>	
+                        </show_banner>
                         <cookie_lifetime translate="label">
                             <label>Cookie Lifetime (Days)</label>
                             <frontend_type>text</frontend_type>
@@ -56,7 +56,7 @@
                             <depends>
                                 <show_banner>1</show_banner>
                             </depends>
-                        </developer_mode>			
+                        </developer_mode>
                         <privacy_url translate="label">
                             <label>Privacy Policy URL</label>
                             <frontend_type>text</frontend_type>

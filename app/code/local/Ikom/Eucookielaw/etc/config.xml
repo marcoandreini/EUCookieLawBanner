@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
   <modules>
-    <Creare_Eucookielaw>
+    <Ikom_Eucookielaw>
       <version>1.0.0</version>
-    </Creare_Eucookielaw>
+    </Ikom_Eucookielaw>
   </modules>
   <frontend>
     <layout>
@@ -18,8 +18,8 @@
     <eu_cookie_law>
       <cookie_banner_settings>
         <show_banner>1</show_banner>
-        <cookie_lifetime>14</cookie_lifetime>
-        <privacy_url>privacy-policy-cookie-restriction-mode</privacy_url>
+        <cookie_lifetime>30</cookie_lifetime>
+        <privacy_url>privacy-policy-cookie-restriction-mode.html</privacy_url>
     <privacy_message>Our website uses cookies. By continuing we assume your permission to deploy cookies, as detailed in our Privacy Policy</privacy_message>
     <privacy_url_text>Policy Details</privacy_url_text>
                 <developer_mode>0</developer_mode>

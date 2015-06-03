@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <config>
 <modules>
-   <Creare_Eucookielaw>
+   <Ikom_Eucookielaw>
       <active>true</active>
       <codePool>local</codePool>
       <version>1.0</version>
-   </Creare_Eucookielaw>
+   </Ikom_Eucookielaw>
 </modules>
 </config>

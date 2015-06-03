@@ -1,5 +1,5 @@
-app/code/local/Creare/Eucookielaw app/code/local/Creare/Eucookielaw
+app/code/local/Ikom/Eucookielaw app/code/local/Ikom/Eucookielaw
 app/design/frontend/base/default/layout/eucookielaw.xml app/design/frontend/base/default/layout/eucookielaw.xml
 app/design/frontend/base/default/template/eucookielaw app/design/frontend/base/default/template/eucookielaw
 skin/frontend/base/default/js/eucookielaw.js skin/frontend/base/default/js/eucookielaw.js
-app/etc/modules/Creare_Eucookielaw.xml app/etc/modules/Creare_Eucookielaw.xml
+app/etc/modules/Ikom_Eucookielaw.xml app/etc/modules/Ikom_Eucookielaw.xml
